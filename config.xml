@@ -1,0 +1,6 @@
+<?xml version='1.0'?>
+<Obfuscator>
+  <Var name="InPath" value="C:\Users\Maxim\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug" />
+  <Var name="OutPath" value="C:\Users\Maxim\source\repos\WindowsFormsApp5\WindowsFormsApp3\bin" />
+  <Module file="$(InPath)\WindowsFormsApp5.exe" />
+</Obfuscator>
